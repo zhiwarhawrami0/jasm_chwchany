@@ -239,7 +239,7 @@ body{
     border-radius: 15px;
     background-color:  rgb(0, 255, 0);
     animation: zhika 3s infinite;
-    color: white;
+    color: black;
     font-size: 65px;
     width: 552px;
     
@@ -299,7 +299,7 @@ body{
 
     margin-right: 22px;
     animation: zhika 3s infinite;
-    color: white;
+    color: black;
     background-color: rgb(0, 255, 0);
     font-size: 50px;
     
